@@ -917,10 +917,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/ioredis@3.2.24":
-  version "3.2.24"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-3.2.24.tgz#98a149f913808627e61e7e641a58685c86885019"
-  integrity sha512-bHEdc/lIA9XTtFVENYl1tAuUfbn5T2waUDQODVNm2gMsr2nGOWj/cfeNqqsOhz/dmwvgPwYsfdDNeXAf5U+xmw==
+"@types/ioredis@3.2.25":
+  version "3.2.25"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-3.2.25.tgz#38220000e56b973c8b41a3ac823a3bc5781f2c08"
+  integrity sha512-PoTy+QsFrWKZfvFpVHYkQQXiOZZNOyWPgY047nlMwC4jrWK45kFfTWaQRUmNsqz06bZ0kmfOMZqtnWfWCLbtiQ==
   dependencies:
     "@types/bluebird" "*"
     "@types/node" "*"
