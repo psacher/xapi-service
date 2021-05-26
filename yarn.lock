@@ -69,7 +69,7 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@commitlint/cli@^12.0.1":
+"@commitlint/cli@^12.1.4":
   version "12.1.4"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-12.1.4.tgz#af4d9dd3c0122c7b39a61fa1cd2abbad0422dbe0"
   integrity sha512-ZR1WjXLvqEffYyBPT0XdnSxtt3Ty1TMoujEtseW5o3vPnkA1UNashAMjQVg/oELqfaiAMnDw8SERPMN0e/0kLg==
@@ -84,10 +84,10 @@
     resolve-global "1.0.0"
     yargs "^16.2.0"
 
-"@commitlint/config-conventional@12.0.1":
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-12.0.1.tgz#7bf3bbf68bda967c5165135ebe8f2055decf1a83"
-  integrity sha512-1ZhB135lh47zVmf1orwcjxuKuam11fJIH/bdVxW9XiQv8XPwC6iIp19knfl8FcOT78AVBnes1z6EVxgUeP2/4Q==
+"@commitlint/config-conventional@12.1.4":
+  version "12.1.4"
+  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-12.1.4.tgz#95bbab622f117a8a3e49f95917b08655040c66a8"
+  integrity sha512-ZIdzmdy4o4WyqywMEpprRCrehjCSQrHkaRTVZV411GyLigFQHlEBSJITAihLAWe88Qy/8SyoIe5uKvAsV5vRqQ==
   dependencies:
     conventional-changelog-conventionalcommits "^4.3.1"
 
@@ -199,7 +199,7 @@
   dependencies:
     find-up "^5.0.0"
 
-"@commitlint/types@^12.0.1", "@commitlint/types@^12.1.4":
+"@commitlint/types@^12.1.4":
   version "12.1.4"
   resolved "https://registry.yarnpkg.com/@commitlint/types/-/types-12.1.4.tgz#9618a5dc8991fb58e6de6ed89d7bf712fa74ba7e"
   integrity sha512-KRIjdnWNUx6ywz+SJvjmNCbQKcKP6KArhjZhY2l+CWKxak0d77SOjggkMwFTiSgLODOwmuLTbarR2ZfWPiPMlw==
@@ -2348,13 +2348,13 @@ commander@^3.0.2:
   resolved "https://registry.yarnpkg.com/commander/-/commander-3.0.2.tgz#6837c3fb677ad9933d1cfba42dd14d5117d6b39e"
   integrity sha512-Gar0ASD4BDyKC4hl4DwHqDrmvjoxWKZigVnAbn5H1owvm4CxCPdb0HQDehwNYMJpla5+M2tPmPARzhtYuwpHow==
 
-commitlint@12.0.1:
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/commitlint/-/commitlint-12.0.1.tgz#bf792dec85e9805c588c68c6964b8ac0201ae566"
-  integrity sha512-rNmZ8xQG6IcrSLci7HnvNosSdW6SBeqh+oxZ5jOGsdYZMQsiNGXqB46ucwsPUg+tGSZq3pa849Dg6xwXhy9hQA==
+commitlint@12.1.4:
+  version "12.1.4"
+  resolved "https://registry.yarnpkg.com/commitlint/-/commitlint-12.1.4.tgz#afc185957afdd07d2ebb6c78b5956d407fc09ad0"
+  integrity sha512-SHmNe3eQrVIzxt0x5yyir8AKu6fB0DDf2Vs4Hvij5/T2ckJ22YQsLEpl1vPFKq6YPTmERjNxTgB2Dp2QQ3YTzg==
   dependencies:
-    "@commitlint/cli" "^12.0.1"
-    "@commitlint/types" "^12.0.1"
+    "@commitlint/cli" "^12.1.4"
+    "@commitlint/types" "^12.1.4"
 
 common-ancestor-path@^1.0.1:
   version "1.0.1"
